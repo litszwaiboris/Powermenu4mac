@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZE6JEs2Rwts+aVK5A7hTfCMuboWoBh+956z8kNRfqPiuelUzx3iTRHLumW0n4Et3OSA11qS5byd0VD5MHHwp5w==",
+  "success": true,
+  "projectFilePath": "Z:\\Shutmenu\\Shutmenu\\Powermenu.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\libor\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512",
+    "C:\\Users\\libor\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\libor\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\libor\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

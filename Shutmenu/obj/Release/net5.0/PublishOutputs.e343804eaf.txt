@@ -1,0 +1,5 @@
+/Users/libor/Projects/Shutmenu/Shutmenu/bin/Release/net5.0/publish/Powermenu
+/Users/libor/Projects/Shutmenu/Shutmenu/bin/Release/net5.0/publish/Powermenu.dll
+/Users/libor/Projects/Shutmenu/Shutmenu/bin/Release/net5.0/publish/Powermenu.deps.json
+/Users/libor/Projects/Shutmenu/Shutmenu/bin/Release/net5.0/publish/Powermenu.runtimeconfig.json
+/Users/libor/Projects/Shutmenu/Shutmenu/bin/Release/net5.0/publish/Powermenu.pdb

@@ -1,0 +1,15 @@
+/Users/libor/Projects/Shutmenu/Shutmenu/obj/Debug/net5.0/Powermenu.csproj.AssemblyReference.cache
+/Users/libor/Projects/Shutmenu/Shutmenu/obj/Debug/net5.0/Powermenu.GeneratedMSBuildEditorConfig.editorconfig
+/Users/libor/Projects/Shutmenu/Shutmenu/obj/Debug/net5.0/Powermenu.AssemblyInfoInputs.cache
+/Users/libor/Projects/Shutmenu/Shutmenu/obj/Debug/net5.0/Powermenu.AssemblyInfo.cs
+/Users/libor/Projects/Shutmenu/Shutmenu/obj/Debug/net5.0/Powermenu.csproj.CoreCompileInputs.cache
+/Users/libor/Projects/Shutmenu/Shutmenu/bin/Debug/net5.0/Powermenu.deps.json
+/Users/libor/Projects/Shutmenu/Shutmenu/bin/Debug/net5.0/Powermenu.runtimeconfig.json
+/Users/libor/Projects/Shutmenu/Shutmenu/bin/Debug/net5.0/Powermenu.runtimeconfig.dev.json
+/Users/libor/Projects/Shutmenu/Shutmenu/bin/Debug/net5.0/Powermenu.dll
+/Users/libor/Projects/Shutmenu/Shutmenu/bin/Debug/net5.0/ref/Powermenu.dll
+/Users/libor/Projects/Shutmenu/Shutmenu/bin/Debug/net5.0/Powermenu.pdb
+/Users/libor/Projects/Shutmenu/Shutmenu/obj/Debug/net5.0/Powermenu.dll
+/Users/libor/Projects/Shutmenu/Shutmenu/obj/Debug/net5.0/ref/Powermenu.dll
+/Users/libor/Projects/Shutmenu/Shutmenu/obj/Debug/net5.0/Powermenu.pdb
+/Users/libor/Projects/Shutmenu/Shutmenu/obj/Debug/net5.0/Powermenu.genruntimeconfig.cache
